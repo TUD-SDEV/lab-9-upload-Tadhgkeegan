@@ -1,0 +1,35 @@
+[
+    {
+        "model": "book.book",
+        "pk": "0ca905a1-29ed-4584-a77c-ea7b4bb7bcf5",
+        "fields": {
+            "title": "I Know Why The Caged Bird Sings",
+            "author": "Maya Angelou",
+            "price": "15.99",
+            "date_publication": "2022-12-04",
+            "cover": ""
+        }
+    },
+    {
+        "model": "book.book",
+        "pk": "2d211951-df11-4b5c-acef-6412aa0924c6",
+        "fields": {
+            "title": "Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "price": "17.99",
+            "date_publication": "1979-05-06",
+            "cover": ""
+        }
+    },
+    {
+        "model": "book.book",
+        "pk": "660bdcde-fb61-4977-95b4-e7b89a96879a",
+        "fields": {
+            "title": "The Sun Also Rises",
+            "author": "Ernest Hemingway",
+            "price": "12.99",
+            "date_publication": "2012-08-11",
+            "cover": "covers/PythonCookbook.jpg"
+        }
+    }
+]
